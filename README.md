@@ -18,7 +18,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Front End / Fivem Developerfrom Israel.
+I am a Front End / Fivem Developer from Israel.
 
 - :seedling: Exploring Technical Content Writing.
 
