@@ -22,7 +22,7 @@ I am a Front End / Fivem Developer from Israel.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I Creating Fivem Scripts.
+- :zap: In my free time, I Create Fivem Scripts For QBCore FrameWork.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
