@@ -18,9 +18,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Front End / Fivem Developer from Israel.
-
-- :seedling: Exploring Technical Content Writing.
+I am a Fivem Developer from Israel.
 
 - :zap: In my free time, I Create Fivem Scripts For QBCore FrameWork.
 ---
