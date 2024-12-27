@@ -18,7 +18,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a FrontEnd Developer from Israel.
+I am a Fivem and React Native Developer from Israel.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -28,6 +28,7 @@ I am a FrontEnd Developer from Israel.
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" title="Lua"  alt="Lua" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nextjs/nextjs-original.svg" title="NextJS"  alt="NextJS" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nextjs/nextjs-original.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" title="NextJS"  alt="React Native" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 
