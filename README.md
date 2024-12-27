@@ -32,7 +32,13 @@ I am a Fivem and React Native Developer from Israel.
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnTa0tVjiYF3Ilak8DAXLIbepWQ77QVwapnZsNKqp7TkU0msUmd3TEo2l-OmuHY1ie_Fo&usqp=CAU" title="Expo"  alt="Expo" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+</div>
 
+### :speaking_head: Spoken Languages :
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/1200px-Flag_of_the_United_Kingdom_%281-2%29.svg.png"  title="English" alt="English" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/800px-Flag_of_Israel.svg.png" title="Hebrew" alt="Hebrew" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.britannica.com/42/3842-050-68EEE2C4/Flag-Russia.jpg" title="Russian" alt="Russian" width="40" height="40"/>&nbsp;
 </div>
 
 ---
