@@ -15,8 +15,8 @@
 
 ### About Me
 
-- 👩‍💻 **Developer:** Fivem & React Native Developer based in Israel.
-- 🌱 **Currently Learning:** SQL, Advanced React Native.
+- 👩‍💻 **Developer:** Fivem, React Native, React Developer based in Israel.
+- 🌱 **Currently Learning:** MongoDB, Advanced React.
 - 🌟 **Passionate About:** Building interactive applications and creating seamless user experiences.
 
 ---
