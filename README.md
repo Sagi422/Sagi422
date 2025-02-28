@@ -40,7 +40,6 @@
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/1200px-Flag_of_the_United_Kingdom_%281-2%29.svg.png" title="English" alt="English" width="70" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/800px-Flag_of_Israel.svg.png" title="Hebrew" alt="Hebrew" width="70" height="40"/>&nbsp;
-  <img src="https://cdn.britannica.com/42/3842-050-68EEE2C4/Flag-Russia.jpg" title="Russian" alt="Russian" width="70" height="40"/>&nbsp;
 </div>
 
 ---
